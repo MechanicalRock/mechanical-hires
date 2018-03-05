@@ -2,7 +2,7 @@
 This is our general approach to hiring
 
 ## The first meeting
-Someone will meet with you face to face and have a coffee. Don't expect to be asked the normal questions you may get in an interview. This will generally just be to see how you communicate.
+Someone will meet with you face to face and have a coffee. Don't expect to be asked the normal questions you may get in an interview. This will generally just be to see how you communicate and what you want from life. It's not all about work you know?
 
 ## The second meeting
 A pairing session. 
