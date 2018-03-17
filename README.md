@@ -20,4 +20,4 @@ It's important to us that the team decide on new hires. After all, you will be p
 We may invite you to a mob programming session. Mob programming (or just "mobbing") is a technique where the entire team works together on a single story at the same time, on the same computer. It takes pair programming to the next level by including everyone.
 
 ## IMPORTANT
-We can't and won't hire everyone. It may be that you were unsuccessful at some point, but that shouldn't discourage you from applying again. We should provide you with constructive feedback and if we didn't hassle us and we will.
+We can't and won't hire everyone. It may be that you were unsuccessful at some point, but that shouldn't discourage you from applying again. We should provide you with constructive feedback and if we didn't hassle us and we will. [email us](mailto:contact@mechanicalrock.io)
