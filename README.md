@@ -1,4 +1,3 @@
-![alt text](./logo_wide_small_text-with-logo_dark.jpg "Mechanical Rock's Logo")
 # mechanical-hires
 This is our general approach to hiring
 
@@ -20,9 +19,12 @@ Depending on the role we are recruiting for, we will generally run a pairing ses
 It's important to us that the team decide on new hires. After all, you will be part of that team.
 We may invite you to a mob programming session. Mob programming (or just "mobbing") is a technique where the entire team works together on a single story at the same time, on the same computer. It takes pair programming to the next level by including everyone.
 
+---
+
 ## IMPORTANT
+
 We can't and won't hire everyone. It may be that you were unsuccessful at some point, in this case we will provide you with constructive feedback; but that shouldn't discourage you from applying again. If you didn't hassle us, we will.
 
-[:E-MAIL: Email us](mailto:contact@mechanicalrock.io)
-
-[Read more about the company](https://www.linkedin.com/company/mechanical-rock/)
+* [Email us](mailto:contact@mechanicalrock.io)
+* [Read more about us](https://www.linkedin.com/company/mechanical-rock/)
+* [View our available jobs](https://www.linkedin.com/jobs/search/?f_C=18148543&locationId=AUSTRALIA)
