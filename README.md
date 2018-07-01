@@ -23,7 +23,7 @@ We may invite you to a mob programming session. Mob programming (or just "mobbin
 
 ## IMPORTANT
 
-We can't and won't hire everyone. It may be that you were unsuccessful at some point, in this case we will provide you with constructive feedback; but that shouldn't discourage you from applying again. If you didn't hassle us, we will.
+We can't and won't hire everyone. It may be that you were unsuccessful at some point, in this case we will provide you with constructive feedback; but that shouldn't discourage you from applying again. If we didn't provide you with feedback, please hassle us, and we will.
 
 * [Email us](mailto:contact@mechanicalrock.io)
 * [Read more about us](https://www.linkedin.com/company/mechanical-rock/)
